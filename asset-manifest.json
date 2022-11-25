@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-friday-project/static/css/main.87c48743.css",
+    "main.js": "/my-friday-project/static/js/main.fe0f1d3f.js",
+    "static/media/cat.jpg": "/my-friday-project/static/media/cat.8cb73e5a1cf8d1ef3b40.jpg",
+    "index.html": "/my-friday-project/index.html",
+    "main.87c48743.css.map": "/my-friday-project/static/css/main.87c48743.css.map",
+    "main.fe0f1d3f.js.map": "/my-friday-project/static/js/main.fe0f1d3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c48743.css",
+    "static/js/main.fe0f1d3f.js"
+  ]
+}
